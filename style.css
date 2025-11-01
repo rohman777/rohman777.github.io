@@ -1,0 +1,18 @@
+/* Style untuk CLASS jumbotron */
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+/* Style untuk ID Project */
+#project {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+#contact {
+  margin: -1px;
+}
