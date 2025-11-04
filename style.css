@@ -1,5 +1,6 @@
-/* Style untuk CLASS jumbotron */
-.jumbotron {
+/* Style untuk CLASS HEADER */
+.header {
+  /* sebagai jarak atas dengan ukuran 96px */
   padding-top: 6rem;
   background-color: #e2edff;
 }
@@ -10,9 +11,11 @@
 }
 
 section {
+  /* sebagai jarak atas dengan ukuran 80px  */
   padding-top: 5rem;
 }
 
 #contact {
+  /* memberikan jarak disemua sisi */
   margin: -1px;
 }
