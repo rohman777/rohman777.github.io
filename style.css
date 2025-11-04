@@ -2,12 +2,17 @@
 .header {
   /* sebagai jarak atas dengan ukuran 96px */
   padding-top: 6rem;
-  background-color: #e2edff;
+  background-color: #10367d;
 }
 
 /* Style untuk ID Project */
 #project {
-  background-color: #e2edff;
+  background-color: #10367d;
+}
+
+svg {
+  display: block;
+  margin: -2rem;
 }
 
 section {
@@ -15,7 +20,7 @@ section {
   padding-top: 5rem;
 }
 
-#contact {
-  /* memberikan jarak disemua sisi */
+#contact svg {
+  /* memberikan jarak disemua sisi  */
   margin: -1px;
 }
